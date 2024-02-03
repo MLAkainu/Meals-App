@@ -1,2 +1,2 @@
 # Meals-App
-This is Meals App make by React Native
+This is Meals App make by React Native.
