@@ -1,6 +1,4 @@
 # Meals-App
 This is Meals App make by React Native.\
 Happy new year\
-Happy new yearr
-
-
+Happy new year
